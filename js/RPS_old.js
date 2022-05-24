@@ -35,6 +35,6 @@ if (userScore > compScore) {
 } else if (compScore > userScore) {
     alert('Computer wins the match!');
 } else {
-    alert('It\'s a draw/!');
+    alert('It\'s a draw!');
 }
 alert('Thanks for playing!\n\nTo play again, just reload!')
